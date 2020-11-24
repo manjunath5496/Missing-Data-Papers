@@ -21,7 +21,8 @@
   
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Missing-Data-Papers/blob/master/miss(10).pdf" style="text-decoration:none;">Deep Sensing: Active Sensing using Multi-directional Recurrent Neural Networks </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Missing-Data-Papers/blob/master/miss(11).pdf" style="text-decoration:none;">A Concurrency-Optimal Binary Search Tree</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Missing-Data-Papers/blob/master/miss(11).pdf" style="text-decoration:none;">Missing data:
+the hidden problem</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Missing-Data-Papers/blob/master/miss(12).pdf" style="text-decoration:none;">Classification with Low Rank and Missing Data</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Missing-Data-Papers/blob/master/miss(13).pdf" style="text-decoration:none;">Modeling Missing Data in Clinical Time Series with RNNs</a></li>
 
@@ -55,5 +56,18 @@ for Camera Networks with Missing Data</a></li>
    
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Missing-Data-Papers/blob/master/miss(28).pdf" style="text-decoration:none;">Multi-directional Recurrent Neural Networks: A Novel Method for Estimating Missing Data</a></li>
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Missing-Data-Papers/blob/master/miss(29).pdf" style="text-decoration:none;">From Predictive Methods to Missing Data Imputation: An Optimization Approach</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Missing-Data-Papers/blob/master/miss(30).pdf" style="text-decoration:none;">Dealing with missing data: Key assumptions and methods for applied analysis</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Missing-Data-Papers/blob/master/miss(31).pdf" style="text-decoration:none;">Missing-data imputation</a></li>   
+   
+   
+   
+   
+   
+   
+   
  
    </ul>
